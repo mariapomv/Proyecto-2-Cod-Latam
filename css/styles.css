@@ -278,7 +278,7 @@ li img {
 /* Modo oscuro*/
 
 body.dark {
-    background-image: url("/css/blackcat1.jpg");
+    background-image: url("./blackcat1.jpg");
     background-attachment: fixed;
 }
 
@@ -287,7 +287,7 @@ body.dark {
 }
 
 .dark footer {
-    background-image: url("/css/blackcat.jpg");
+    background-image: url("./blackcat.jpg");
     background-attachment: fixed;
     box-shadow: 0 6px 10px -10px;
 }
@@ -402,7 +402,7 @@ footer {
     }
 
     body.dark {
-        background-image: url("/css/blackcat.jpg");
+        background-image: url("./blackcat.jpg");
         background-attachment: fixed;
     }
 
